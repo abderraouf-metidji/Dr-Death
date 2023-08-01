@@ -1,6 +1,6 @@
 ## Dr Death
 
-A data analysis of Dr Shipman's malpractices using:
+A data analysis of Shipman's malpractices using:
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -52,7 +52,7 @@ Power BI is a versatile tool that helps businesses turn data into actionable ins
 
 For this data analysis we were given two different datasets. 
 
-The first dataset includes information about the confirmed victims of Dr Shipman with the following variables: 
+The first dataset includes information about the confirmed victims of Shipman with the following variables: 
 * age
 * date of death
 * decision
@@ -62,7 +62,7 @@ The first dataset includes information about the confirmed victims of Dr Shipman
 * place of death
 * year of death
 
-The second dataset is a lot smaller and only include data that will allow a comparison between the time of death of Dr Shipman's victims and the time of death of other doctors. 
+The second dataset is a lot smaller and only include data that will allow a comparison between the time of death of Shipman's victims and the time of death of other doctors. 
 
 It includes:
 * hour
