@@ -81,19 +81,19 @@ In this case there were 215 confirmed victims with an average age of 76.19 (75.9
 
 Within these number there were a lot more women then men with 82.79% of the victims being women versus 17.21% of them being men. This gives us 37 men killed and 178 women killed.
 
-![Alt text](/../<images>/path/to/percentage_of_deaths_by_gender.png?raw=true "Deaths by Gender")
+![Graph of deaths by gender](images/percentage_of_deaths_by_gender.png "Deaths by Gender")
 
 This means that Shipman's victims were mainly women and it was his main focus. We have almost 5 dead women for 1 man. 
 
 Regarding the place of death we can see with the following graph that a vast majority, 204 out of the 215 confirmed victims, died in their own home. 
 
-![Alt text](/../<images>/path/to/number_of_deaths_by_place_of_death.png?raw=true "Place of Death")
+![Graph showing the place of death](images/number_of_deaths_by_place_of_death.png "Place of Death")
 
 This would simply mean that their death should be categorized as "natural causes" but knowing the case this means that they were poisoned and then died when they arrived home or shortly after due to an overdose. 
 
 When looking at the year of deaths of the patients. 
 
-![Alt text](/images/number_of_deaths_by_year_of_death.png "Year of Death")
+![Graph showing the year of death](images/number_of_deaths_by_year_of_death.png "Year of Death")
 
 We can see that Shipman was the most active 1997 with a total of 37 victims that year. We can also see a small pattern reagrding his activity with and increase of deaths, a slower period, a bigger increase, slow period again, and another bigger increase. 
 
@@ -113,7 +113,7 @@ We can see that we was more or less careful at the beginning by allowing a timef
 
 Now, let's take a look at the time of death of Shipman's victims compared to "normal" time of deaths. 
 
-![Alt text](/../<images>/path/to/other_doctors_patients_and_shipman_patients_by_hour_of_death.png?raw=true "Time of Death")
+![Graph of time of death](images/other_doctors_patients_and_shipman_patients_by_hour_of_death.png "Time of Death")
 
 The main thing that we can notice with this comparison is that the number of deaths in Shipman's case were a lot higher compared to other Doctors deaths. 
 
