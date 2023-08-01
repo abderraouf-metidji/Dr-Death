@@ -93,7 +93,7 @@ This would simply mean that their death should be categorized as "natural causes
 
 When looking at the year of deaths of the patients. 
 
-![Alt text](/../<images>/path/to/number_of_deaths_by_year_of_death.png?raw=true "Year of Death")
+![Alt text](/images/number_of_deaths_by_year_of_death.png "Year of Death")
 
 We can see that Shipman was the most active 1997 with a total of 37 victims that year. We can also see a small pattern reagrding his activity with and increase of deaths, a slower period, a bigger increase, slow period again, and another bigger increase. 
 
